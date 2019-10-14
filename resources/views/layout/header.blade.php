@@ -17,7 +17,7 @@
     <header class="border-bottom box-shadow">
         <div class="container d-flex flex-column flex-md-row justify-content-between">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="#">Home</a>
+                <a class="navbar-brand" href="{{route('index')}}">Home</a>
             </nav>
         </div>
     </header>
